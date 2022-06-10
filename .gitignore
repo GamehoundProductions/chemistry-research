@@ -1,3 +1,5 @@
 __pycache__
 *.swap
 *.log
+*key*
+real-data/

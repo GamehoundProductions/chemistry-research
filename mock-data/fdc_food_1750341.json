@@ -1,0 +1,413 @@
+{
+    "fdcId": 1750341,
+    "description": "Apples, gala, with skin, raw",
+    "publicationDate": "10/30/2020",
+    "foodNutrients": [
+        {
+            "type": "FoodNutrient",
+            "nutrient": {
+                "id": 1003,
+                "number": "203",
+                "name": "Protein",
+                "rank": 600,
+                "unitName": "g"
+            },
+            "foodNutrientDerivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated",
+                "foodNutrientSource": {
+                    "id": 2,
+                    "code": "4",
+                    "description": "Calculated or imputed"
+                }
+            },
+            "id": 21115524,
+            "amount": 0.1328125,
+            "max": 0.1875,
+            "min": 0.0,
+            "median": 0.1875,
+            "nutrientAnalysisDetails": []
+        },
+        {
+            "type": "FoodNutrient",
+            "nutrient": {
+                "id": 1004,
+                "number": "204",
+                "name": "Total lipid (fat)",
+                "rank": 800,
+                "unitName": "g"
+            },
+            "foodNutrientDerivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical",
+                "foodNutrientSource": {
+                    "id": 1,
+                    "code": "1",
+                    "description": "Analytical or derived from analytical"
+                }
+            },
+            "id": 21115499,
+            "amount": 0.15,
+            "dataPoints": 8,
+            "max": 0.2,
+            "min": 0.0,
+            "median": 0.2,
+            "minYearAcquired": 2020,
+            "nutrientAnalysisDetails": [
+                {
+                    "subSampleId": 1753058,
+                    "nutrientId": 1004,
+                    "amount": 0.2,
+                    "labMethodTechnique": "Acid hydrolysis",
+                    "labMethodDescription": "AOAC 922.06",
+                    "labMethodOriginalDescription": "922.06 (32.1.14) Fat in Flour, Acid Hydrolysis Method",
+                    "labMethodLink": "http://www.aoac.org/aoac_prod_imis/AOAC/AOAC_Member/PUBSCF/OMACF/OMAP_M.aspx",
+                    "nutrientAcquisitionDetails": [
+                        {
+                            "sampleUnitId": 1750443,
+                            "purchaseDate": "4/16/2020",
+                            "storeCity": "Blacksburg",
+                            "storeState": "VA",
+                            "packerCity": "Cincinnati",
+                            "packerState": "OH"
+                        }
+                    ]
+                },
+                {
+                    "subSampleId": 1753077,
+                    "nutrientId": 1004,
+                    "amount": 0.2,
+                    "labMethodTechnique": "Acid hydrolysis",
+                    "labMethodDescription": "AOAC 922.06",
+                    "labMethodOriginalDescription": "922.06 (32.1.14) Fat in Flour, Acid Hydrolysis Method",
+                    "labMethodLink": "http://www.aoac.org/aoac_prod_imis/AOAC/AOAC_Member/PUBSCF/OMACF/OMAP_M.aspx",
+                    "nutrientAcquisitionDetails": [
+                        {
+                            "sampleUnitId": 1750445,
+                            "purchaseDate": "4/20/2020",
+                            "storeCity": "Burtonsville",
+                            "storeState": "MD",
+                            "packerCity": "Landover",
+                            "packerState": "MD"
+                        }
+                    ]
+                },
+                {
+                    "subSampleId": 1753119,
+                    "nutrientId": 1004,
+                    "amount": 0.2,
+                    "labMethodTechnique": "Acid hydrolysis",
+                    "labMethodDescription": "AOAC 922.06",
+                    "labMethodOriginalDescription": "922.06 (32.1.14) Fat in Flour, Acid Hydrolysis Method",
+                    "labMethodLink": "http://www.aoac.org/aoac_prod_imis/AOAC/AOAC_Member/PUBSCF/OMACF/OMAP_M.aspx",
+                    "nutrientAcquisitionDetails": [
+                        {
+                            "sampleUnitId": 1750447,
+                            "purchaseDate": "4/20/2020",
+                            "storeCity": "Burtonsville",
+                            "storeState": "MD",
+                            "packerCity": "Landover",
+                            "packerState": "MD"
+                        }
+                    ]
+                },
+                {
+                    "subSampleId": 1753124,
+                    "nutrientId": 1004,
+                    "amount": 0.2,
+                    "labMethodTechnique": "Acid hydrolysis",
+                    "labMethodDescription": "AOAC 922.06",
+                    "labMethodOriginalDescription": "922.06 (32.1.14) Fat in Flour, Acid Hydrolysis Method",
+                    "labMethodLink": "http://www.aoac.org/aoac_prod_imis/AOAC/AOAC_Member/PUBSCF/OMACF/OMAP_M.aspx",
+                    "nutrientAcquisitionDetails": [
+                        {
+                            "sampleUnitId": 1750449,
+                            "purchaseDate": "5/5/2020",
+                            "storeCity": "Burtonsville",
+                            "storeState": "MD",
+                            "packerCity": "Wenatchee",
+                            "packerState": "WA"
+                        }
+                    ]
+                },
+                {
+                    "subSampleId": 1753156,
+                    "nutrientId": 1004,
+                    "amount": 0.1,
+                    "labMethodTechnique": "Acid hydrolysis",
+                    "labMethodDescription": "AOAC 922.06",
+                    "labMethodOriginalDescription": "922.06 (32.1.14) Fat in Flour, Acid Hydrolysis Method",
+                    "labMethodLink": "http://www.aoac.org/aoac_prod_imis/AOAC/AOAC_Member/PUBSCF/OMACF/OMAP_M.aspx",
+                    "nutrientAcquisitionDetails": [
+                        {
+                            "sampleUnitId": 1750451,
+                            "purchaseDate": "5/5/2020",
+                            "storeCity": "Beltsville",
+                            "storeState": "MD",
+                            "packerCity": "Selah",
+                            "packerState": "WA"
+                        }
+                    ]
+                },
+                {
+                    "subSampleId": 1753194,
+                    "nutrientId": 1004,
+                    "amount": 0.1,
+                    "labMethodTechnique": "Acid hydrolysis",
+                    "labMethodDescription": "AOAC 922.06",
+                    "labMethodOriginalDescription": "922.06 (32.1.14) Fat in Flour, Acid Hydrolysis Method",
+                    "labMethodLink": "http://www.aoac.org/aoac_prod_imis/AOAC/AOAC_Member/PUBSCF/OMACF/OMAP_M.aspx",
+                    "nutrientAcquisitionDetails": [
+                        {
+                            "sampleUnitId": 1750453,
+                            "purchaseDate": "5/5/2020",
+                            "storeCity": "College Park",
+                            "storeState": "MD",
+                            "packerCity": "Chelan",
+                            "packerState": "WA"
+                        }
+                    ]
+                },
+                {
+                    "subSampleId": 1753207,
+                    "nutrientId": 1004,
+                    "amount": 0.2,
+                    "labMethodTechnique": "Acid hydrolysis",
+                    "labMethodDescription": "AOAC 922.06",
+                    "labMethodOriginalDescription": "922.06 (32.1.14) Fat in Flour, Acid Hydrolysis Method",
+                    "labMethodLink": "http://www.aoac.org/aoac_prod_imis/AOAC/AOAC_Member/PUBSCF/OMACF/OMAP_M.aspx",
+                    "nutrientAcquisitionDetails": [
+                        {
+                            "sampleUnitId": 1750455,
+                            "purchaseDate": "5/5/2020",
+                            "storeCity": "College Park",
+                            "storeState": "MD",
+                            "packerCity": "Lancaster",
+                            "packerState": "PA"
+                        }
+                    ]
+                },
+                {
+                    "subSampleId": 1753229,
+                    "nutrientId": 1004,
+                    "amount": 0.0,
+                    "labMethodTechnique": "Acid hydrolysis",
+                    "labMethodDescription": "AOAC 922.06",
+                    "labMethodOriginalDescription": "922.06 (32.1.14) Fat in Flour, Acid Hydrolysis Method",
+                    "labMethodLink": "http://www.aoac.org/aoac_prod_imis/AOAC/AOAC_Member/PUBSCF/OMACF/OMAP_M.aspx",
+                    "loq": 0.1,
+                    "nutrientAcquisitionDetails": [
+                        {
+                            "sampleUnitId": 1750457,
+                            "purchaseDate": "5/5/2020",
+                            "storeCity": "Hyattsville",
+                            "storeState": "MD",
+                            "packerCity": "Yakima",
+                            "packerState": "WA"
+                        }
+                    ]
+                }
+            ],
+            "loq": 0.1
+        },
+        {
+            "type": "FoodNutrient",
+            "nutrient": {
+                "id": 1005,
+                "number": "205",
+                "name": "Carbohydrate, by difference",
+                "rank": 1110,
+                "unitName": "g"
+            },
+            "foodNutrientDerivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated",
+                "foodNutrientSource": {
+                    "id": 2,
+                    "code": "4",
+                    "description": "Calculated or imputed"
+                }
+            },
+            "id": 21115525,
+            "amount": 14.7680875,
+            "nutrientAnalysisDetails": []
+        }
+    ],
+    "dataType": "Foundation",
+    "foodClass": "FinalFood",
+    "scientificName": "Malus domestica",
+    "inputFoods": [
+        {
+            "id": 103543,
+            "foodDescription": "APPLES, GALA, WITH SKIN, RAW",
+            "inputFood": {
+                "fdcId": 1750456,
+                "description": "APPLES, GALA, WITH SKIN, RAW",
+                "publicationDate": "4/23/2021",
+                "foodAttributeTypes": [],
+                "foodClass": "Composite",
+                "totalRefuse": 0,
+                "dataType": "Sample",
+                "foodGroup": {
+                    "id": 9,
+                    "code": "0900",
+                    "description": "Fruits and Fruit Juices"
+                }
+            }
+        },
+        {
+            "id": 103546,
+            "foodDescription": "APPLES, GALA, WITH SKIN, RAW",
+            "inputFood": {
+                "fdcId": 1750458,
+                "description": "APPLES, GALA, WITH SKIN, RAW",
+                "publicationDate": "4/23/2021",
+                "foodAttributeTypes": [],
+                "foodClass": "Composite",
+                "totalRefuse": 0,
+                "dataType": "Sample",
+                "foodGroup": {
+                    "id": 9,
+                    "code": "0900",
+                    "description": "Fruits and Fruit Juices"
+                }
+            }
+        },
+        {
+            "id": 103548,
+            "foodDescription": "APPLES, GALA, WITH SKIN, RAW",
+            "inputFood": {
+                "fdcId": 1750452,
+                "description": "APPLES, GALA, WITH SKIN, RAW",
+                "publicationDate": "4/23/2021",
+                "foodAttributeTypes": [],
+                "foodClass": "Composite",
+                "totalRefuse": 0,
+                "dataType": "Sample",
+                "foodGroup": {
+                    "id": 9,
+                    "code": "0900",
+                    "description": "Fruits and Fruit Juices"
+                }
+            }
+        },
+        {
+            "id": 103551,
+            "foodDescription": "APPLES, GALA, WITH SKIN, RAW",
+            "inputFood": {
+                "fdcId": 1750454,
+                "description": "APPLES, GALA, WITH SKIN, RAW",
+                "publicationDate": "4/23/2021",
+                "foodAttributeTypes": [],
+                "foodClass": "Composite",
+                "totalRefuse": 0,
+                "dataType": "Sample",
+                "foodGroup": {
+                    "id": 9,
+                    "code": "0900",
+                    "description": "Fruits and Fruit Juices"
+                }
+            }
+        },
+        {
+            "id": 103567,
+            "foodDescription": "APPLES, GALA, WITH SKIN, RAW",
+            "inputFood": {
+                "fdcId": 1750448,
+                "description": "APPLES, GALA, WITH SKIN, RAW",
+                "publicationDate": "4/23/2021",
+                "foodAttributeTypes": [],
+                "foodClass": "Composite",
+                "totalRefuse": 0,
+                "dataType": "Sample",
+                "foodGroup": {
+                    "id": 9,
+                    "code": "0900",
+                    "description": "Fruits and Fruit Juices"
+                }
+            }
+        },
+        {
+            "id": 103570,
+            "foodDescription": "APPLES, GALA, WITH SKIN, RAW",
+            "inputFood": {
+                "fdcId": 1750450,
+                "description": "APPLES, GALA, WITH SKIN, RAW",
+                "publicationDate": "4/23/2021",
+                "foodAttributeTypes": [],
+                "foodClass": "Composite",
+                "totalRefuse": 0,
+                "dataType": "Sample",
+                "foodGroup": {
+                    "id": 9,
+                    "code": "0900",
+                    "description": "Fruits and Fruit Juices"
+                }
+            }
+        },
+        {
+            "id": 103573,
+            "foodDescription": "APPLES, GALA, WITH SKIN, RAW",
+            "inputFood": {
+                "fdcId": 1750444,
+                "description": "APPLES, GALA, WITH SKIN, RAW",
+                "publicationDate": "4/23/2021",
+                "foodAttributeTypes": [],
+                "foodClass": "Composite",
+                "totalRefuse": 0,
+                "dataType": "Sample",
+                "foodGroup": {
+                    "id": 9,
+                    "code": "0900",
+                    "description": "Fruits and Fruit Juices"
+                }
+            }
+        },
+        {
+            "id": 103576,
+            "foodDescription": "APPLES, GALA, WITH SKIN, RAW",
+            "inputFood": {
+                "fdcId": 1750446,
+                "description": "APPLES, GALA, WITH SKIN, RAW",
+                "publicationDate": "4/23/2021",
+                "foodAttributeTypes": [],
+                "foodClass": "Composite",
+                "totalRefuse": 0,
+                "dataType": "Sample",
+                "foodGroup": {
+                    "id": 9,
+                    "code": "0900",
+                    "description": "Fruits and Fruit Juices"
+                }
+            }
+        }
+    ],
+    "foodComponents": [],
+    "foodAttributes": [],
+    "nutrientConversionFactors": [
+        {
+            "id": 22768,
+            "proteinValue": 3.36,
+            "fatValue": 8.37,
+            "carbohydrateValue": 3.6,
+            "type": ".CalorieConversionFactor",
+            "name": "Calories From Proximates"
+        },
+        {
+            "id": 22786,
+            "value": 6.25,
+            "type": ".ProteinConversionFactor",
+            "name": "Protein From Nitrogen"
+        }
+    ],
+    "ndbNumber": 9503,
+    "isHistoricalReference": false,
+    "foodCategory": {
+        "id": 9,
+        "code": "0900",
+        "description": "Fruits and Fruit Juices"
+    }
+}

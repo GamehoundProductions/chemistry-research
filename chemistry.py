@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import itertools
-import mendeleev #pip3
+import mendeleev
 
 
 class Chemistry:
